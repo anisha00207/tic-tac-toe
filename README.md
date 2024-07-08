@@ -7,8 +7,11 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game. Yo
 
 ## Features
 -Play against the computer.
+
 -The computer uses the minimax algorithm for optimal moves.
+
 -Displays the game board after each move.
+
 -Detects win, loss, and draw conditions.
 
 ## Requirements
@@ -22,9 +25,13 @@ A C++ compiler that supports C++11 or later.
 
 ## How to Play
 -Upon starting the game, you will be asked if you want to start first. Enter y for yes or n for no.
+
 -The game will display the board and prompt you to choose a position from 1 to 9.
+
 -Enter the position number to place your move (X). The computer will then make its move (O).
+
 -The game will continue until there is a winner or a draw.
+
 -After the game ends, you can choose to play again or quit.
 
 ## Screenshots
